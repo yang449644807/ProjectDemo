@@ -5,7 +5,9 @@ Android Studio 推荐依赖
 
 dependencies {
     compile 'com.aliyun.dpa:oss-android-sdk:+'
+    
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    
     compile 'com.squareup.okio:okio:1.9.0'
 }
 
