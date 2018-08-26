@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OSSDemo</string>
+    <string name="upload">上传文件</string>
+</resources>
