@@ -22,9 +22,9 @@ import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String AccessId = "5Ml1pqrg9s9Z8lbI";
-    private String AccessKey = "EeAjwQfyOiejZp8NKtTdcuepC3RWTR";
-    private String EndPoint = "oss-cn-shanghai.aliyuncs.com";
+    private String AccessId = "xxxx";
+    private String AccessKey = "xxxx";
+    private String EndPoint = "oss-cn-xxx.aliyuncs.com";
     private String Bucket = "dtbnews";
 
     ImageView image;
